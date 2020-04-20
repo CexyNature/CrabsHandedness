@@ -5,5 +5,3 @@ This notebook trains and evaluate a simple neural network which predict male fid
 Model architecture:
 
 ![](model_img.png)
-
-The notebook can be found in the following repository: []()
